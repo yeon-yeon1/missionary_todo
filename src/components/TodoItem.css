@@ -1,0 +1,15 @@
+li {
+  background-color: #fff;
+  padding: 10px 20px;
+  margin: 10px 0;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  list-style-type: none;
+  position: relative;
+}
+
+li.complete {
+  text-decoration: line-through;
+  color: #888;
+}
