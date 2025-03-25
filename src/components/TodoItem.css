@@ -13,3 +13,8 @@ li.complete {
   text-decoration: line-through;
   color: #888;
 }
+
+li > button {
+  background-color: #e88585;
+  color: black;
+}
